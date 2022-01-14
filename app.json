@@ -3,7 +3,8 @@
   "logo": "https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg",
   "description": "Bu bot Gruplanizda Rahatlikla Muzik dinlemeniz icin yapildi Sahibi Bodrumlu.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/bodrumlubebek/LoungeMusic",
+  "repository": "https://github.com/robbersmusic1/robbersmucispro",
+  "repository": "https://github.com/robbersmusic1/robbersmucispro",
   "stack": "heroku-20",
   "buildpacks": [
    {
