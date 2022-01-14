@@ -1,8 +1,8 @@
-<h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
+<h1 align="centre">RobbersMusic V1.0 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
-### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
+#### POWERED BY [Armor](https://t.me/armor_06)
+
 
 <p align="center">
   <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bodrumlubebek/LoungeMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/robbersmusic1/robbersmucispro)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -60,9 +60,9 @@ Get pyrogram (p)  `SESSION` from here:
 ### Krediler
 
 
-#### Özel Krediler
-- [BODRUMLU OWNER](http://github.com/bodrumlu48): LoungeMusic Geliştirici
 
 
-#### DESTEK VERENLER
-- [SİRİDEV](https://t.me/sirisupport)
+
+
+
+
